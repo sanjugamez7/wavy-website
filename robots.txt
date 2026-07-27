@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wavy-website-nine.vercel.app/sitemap.xml
